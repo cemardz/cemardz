@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @cemardz
+- 👀 I’m interested in learning
+- 🌱 I’m currently learning humility
+- 📫 How to reach me please commit the issue
